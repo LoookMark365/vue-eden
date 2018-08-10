@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2fc6"],{4741:function(n,a,e){},"6cb9":function(n,a,e){"use strict";var t=e("4741"),c=e.n(t);c.a},a68a:function(n,a,e){"use strict";e.r(a);var t=function(){var n=this,a=n.$createElement,e=n._self._c||a;return e("div",[n._v("\n  datatable page\n")])},c=[],i=(e("cadf"),e("551c"),e("097d"),{name:"datatable"}),u=i,o=(e("6cb9"),e("2877")),s=Object(o["a"])(u,t,c,!1,null,"0748d31f",null);s.options.__file="index.vue";a["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2fc6.34fc155f.js.map
